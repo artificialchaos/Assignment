@@ -12,6 +12,6 @@ Some features I'm working on implementing are:
 -represent the the prices per barrel relative to average income at the time.
 
 
--A feature where the user specifies car engine size + date and the program returns how much it would have cost to fill up their  car at that time.
+
 
 
